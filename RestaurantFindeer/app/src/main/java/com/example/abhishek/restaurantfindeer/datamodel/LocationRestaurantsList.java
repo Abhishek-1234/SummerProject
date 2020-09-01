@@ -12,7 +12,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by ABHISHEK on 02-08-2017.
+ * Created by ABHISHEK.
  */
 
 public class LocationRestaurantsList implements Serializable{
