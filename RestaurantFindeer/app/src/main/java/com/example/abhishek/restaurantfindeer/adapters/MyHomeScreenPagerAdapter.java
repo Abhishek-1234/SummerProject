@@ -10,7 +10,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by ABHISHEK on 31-07-2017.
+ * Created by ABHISHEK.
  */
 
 public class MyHomeScreenPagerAdapter extends FragmentPagerAdapter {
