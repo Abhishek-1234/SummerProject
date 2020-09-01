@@ -12,7 +12,7 @@ import retrofit2.http.Header;
 import retrofit2.http.Query;
 
 /**
- * Created by Abhishek on 01/08/2017
+ * Created by Abhishek
  */
 
 public interface ApiInterface {
